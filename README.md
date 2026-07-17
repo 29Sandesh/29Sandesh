@@ -81,6 +81,6 @@ I am a Full Stack Developer with hands-on experience building **10+ production-r
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=29Sandesh&show_icons=true&theme=radical&hide_border=true" alt="Sandesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=29Sandesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=29Sandesh&show_icons=true&theme=radical&hide_border=true" alt="Sandesh's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=29Sandesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
