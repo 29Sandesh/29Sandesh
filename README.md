@@ -8,7 +8,7 @@ I am a Full Stack Developer with hands-on experience building **10+ production-r
 
 ### 🔗 Connect & Links
 <p align="left">
-  <a href="https://sandeshagrawal.me" target="_blank">
+  <a href="https://sandeshagrawal.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-sandeshagrawal.me-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sandeshagrawal29" target="_blank">
