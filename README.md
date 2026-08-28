@@ -18,17 +18,17 @@
 
 <div align="center">
 
-### [**SentinelShield Pro**](https://github.com/29Sandesh/sentinel-shield)
+### [**AMEN v3.0**](https://github.com/29Sandesh/amen)
 *1-Click Windows 10/11 Anti-Hacking Fortress & Ultimate Performance Engine*
 
 A pure, zero-dependency PowerShell security utility that hardens **30 attack vectors** (LLMNR public Wi-Fi hash poisoning, ransomware protection, ASR enterprise rules) and unlocks full hardware CPU/GPU boost clocks.
 
 ```powershell
-irm https://raw.githubusercontent.com/29Sandesh/sentinel-shield/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/29Sandesh/amen/main/install.ps1 | iex
 ```
 
-[![GitHub Stars](https://img.shields.io/github/stars/29Sandesh/sentinel-shield?style=social)](https://github.com/29Sandesh/sentinel-shield)
-[![GitHub Forks](https://img.shields.io/github/forks/29Sandesh/sentinel-shield?style=social)](https://github.com/29Sandesh/sentinel-shield)
+[![GitHub Stars](https://img.shields.io/github/stars/29Sandesh/amen?style=social)](https://github.com/29Sandesh/amen)
+[![GitHub Forks](https://img.shields.io/github/forks/29Sandesh/amen?style=social)](https://github.com/29Sandesh/amen)
 
 </div>
 
