@@ -14,21 +14,21 @@
 
 ---
 
-### 🛡️ Featured Open-Source Project
+### 🤖 Featured Open-Source Project
 
 <div align="center">
 
-### [**AMEN v3.0**](https://github.com/29Sandesh/amen)
-*1-Click Windows 10/11 Anti-Hacking Fortress & Ultimate Performance Engine*
+### [**AUSTON v3.0**](https://github.com/29Sandesh/auston)
+*Autonomous Windows 10/11 Security & Performance Droid*
 
-A pure, zero-dependency PowerShell security utility that hardens **30 attack vectors** (LLMNR public Wi-Fi hash poisoning, ransomware protection, ASR enterprise rules) and unlocks full hardware CPU/GPU boost clocks.
+A pure, zero-dependency PowerShell droid utility that hardens **30 attack vectors** (LLMNR public Wi-Fi hash poisoning, ransomware protection, ASR enterprise rules) and unlocks full hardware CPU/GPU boost clocks.
 
 ```powershell
-irm https://raw.githubusercontent.com/29Sandesh/amen/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/29Sandesh/auston/main/install.ps1 | iex
 ```
 
-[![GitHub Stars](https://img.shields.io/github/stars/29Sandesh/amen?style=social)](https://github.com/29Sandesh/amen)
-[![GitHub Forks](https://img.shields.io/github/forks/29Sandesh/amen?style=social)](https://github.com/29Sandesh/amen)
+[![GitHub Stars](https://img.shields.io/github/stars/29Sandesh/auston?style=social)](https://github.com/29Sandesh/auston)
+[![GitHub Forks](https://img.shields.io/github/forks/29Sandesh/auston?style=social)](https://github.com/29Sandesh/auston)
 
 </div>
 
