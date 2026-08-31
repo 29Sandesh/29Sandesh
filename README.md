@@ -14,21 +14,15 @@
 
 ---
 
-### 🤖 Featured Open-Source Project
+### 🚀 Featured Open-Source Projects
 
 <div align="center">
 
-### [**AUSTON v3.0**](https://github.com/29Sandesh/auston)
-*Autonomous Windows 10/11 Security & Performance Droid*
-
-A pure, zero-dependency PowerShell droid utility that hardens **30 attack vectors** (LLMNR public Wi-Fi hash poisoning, ransomware protection, ASR enterprise rules) and unlocks full hardware CPU/GPU boost clocks.
-
-```powershell
-irm https://raw.githubusercontent.com/29Sandesh/auston/main/install.ps1 | iex
-```
-
-[![GitHub Stars](https://img.shields.io/github/stars/29Sandesh/auston?style=social)](https://github.com/29Sandesh/auston)
-[![GitHub Forks](https://img.shields.io/github/forks/29Sandesh/auston?style=social)](https://github.com/29Sandesh/auston)
+| **[AUSTON v3.0](https://github.com/29Sandesh/auston)** | **[SHADOW-RECON v1.0](https://github.com/29Sandesh/shadow-recon)** |
+| :--- | :--- |
+| **Autonomous Windows 10/11 Security Fortress**<br>Hardens **30 attack vectors**, activates **Encrypted DNS (DoH)**, live threat radar, and unlocks peak CPU/GPU hardware clock speeds. | **Instant B2B Company & Domain OSINT Scanner**<br>Extracts **tech stack fingerprints (150+ tech)**, email deliverability (SPF/DMARC/DKIM), subdomains, and security scores in seconds. |
+| `irm https://raw.githubusercontent.com/29Sandesh/auston/main/install.ps1 \| iex` | `irm https://raw.githubusercontent.com/29Sandesh/shadow-recon/main/install.ps1 \| iex` |
+| [![Stars](https://img.shields.io/github/stars/29Sandesh/auston?style=social)](https://github.com/29Sandesh/auston) | [![Stars](https://img.shields.io/github/stars/29Sandesh/shadow-recon?style=social)](https://github.com/29Sandesh/shadow-recon) |
 
 </div>
 
@@ -39,12 +33,13 @@ irm https://raw.githubusercontent.com/29Sandesh/auston/main/install.ps1 | iex
 * 🎨 **Frontend & UI:** Next.js 15 (App Router), React 19, TypeScript, TailwindCSS, Vite, Electron
 * ⚙️ **Backend & Systems:** Node.js, Python, Go, PowerShell, GraphQL, REST APIs, WebSockets
 * 🗄️ **Databases & Cloud:** PostgreSQL, Supabase, Redis, Better-SQLite3, Docker, Git
-* 🛡️ **Security & Core:** Attack Surface Reduction (ASR), Encrypted DNS-over-HTTPS (DoH), Endpoint Hardening
+* 🛡️ **Security & Core:** Attack Surface Reduction (ASR), Encrypted DNS (DoH), OSINT Reconnaissance, Endpoint Hardening
 
 ---
 
-### 🚀 What I Build
+### 🌟 What I Build
 
+* 🌐 **OSINT & Intelligence Scanners:** High-speed domain reconnaissance, B2B lead enrichment pipelines, and tech stack fingerprinters.
 * 🤖 **Autonomous AI Pipelines:** Multi-agent scrapers, automated lead qualification, and local neural speech/voice systems.
 * 🏢 **Production SaaS Applications:** High-concurrency enterprise web platforms, real-time sync architectures, and offline-first desktop apps.
 * 🛡️ **Systems & Security Utilities:** Lightweight native OS tools that automate protection and hardware performance tuning.
